@@ -25,3 +25,5 @@ test2(1,5)
 require("testModel")
 testModel.test();
 
+print("good")
+
